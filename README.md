@@ -1,4 +1,4 @@
-# Web test automation
+# Web Test Automation
 Demo end 2 end test web test automation
 
 ##Packages
