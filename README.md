@@ -7,6 +7,8 @@ sudo npm install
 ##Web driver
 gulp protractor-webdriver
 
-##Automation
+##Automation (default)
 gulp automation  (default)
+
+##Automation with parameters
 gulp automation --domain domainTest --username usernameTest --password passwordTest
